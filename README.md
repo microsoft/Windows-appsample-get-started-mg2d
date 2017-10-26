@@ -14,4 +14,4 @@ For a step-by-step walkthrough of the code, check out the [MonoGame 2D tutorial 
 
 To learn more about getting started with the Universal Windows Platform, see the [Getting Started Hub](https://developer.microsoft.com/en-us/windows/apps/getstarted)
 
-To learn how to publish apps to the Windows Store, see [Publishing your Windows Store app](https://developer.microsoft.com/en-us/store/publish-apps).
+To learn how to publish apps to the Microsoft Store, see [Publishing your Microsoft Store app](https://developer.microsoft.com/en-us/store/publish-apps).
