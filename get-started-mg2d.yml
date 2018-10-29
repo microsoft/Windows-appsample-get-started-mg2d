@@ -1,0 +1,11 @@
+### YamlMime:Sample
+sample:
+- name: Get Started MonoGame 2D
+  description: A sample app accompanying a tutorial that teaches you the basics of game development in MonoGame.
+  generateZip: true
+  author: GrantMeStrength
+  languages:
+  - csharp
+  technologies:
+  - windows
+  vssolution: MonoGame2D.sln
