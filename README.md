@@ -1,3 +1,15 @@
+---
+topic: sample
+description:
+- A sample app accompanying a tutorial that teaches you the basics of game development in MonoGame.
+languages:
+- csharp
+products:
+- windows
+statusNotificationTargets:
+- codefirst
+---
+
 # Get Started MonoGame 2D
 
 ## Requirements
