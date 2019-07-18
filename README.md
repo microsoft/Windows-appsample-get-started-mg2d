@@ -1,5 +1,5 @@
 ---
-topic: sample
+page_type: sample
 description:
 - A sample app accompanying a tutorial that teaches you the basics of game development in MonoGame.
 languages:
@@ -7,13 +7,13 @@ languages:
 products:
 - windows
 statusNotificationTargets:
-- codefirst
+- codefirst@microsoft.com
 ---
 
 # Get Started MonoGame 2D
 
 ## Requirements
-This app requires Visual Studio to run. [Click here to learn how to get set up with Visual Studio](https://docs.microsoft.com/en-us/windows/uwp/get-started/get-set-up).
+This app requires Visual Studio to run. [Click here to learn how to get set up with Visual Studio](https://docs.microsoft.com/windows/uwp/get-started/get-set-up).
 
 ## Install and run the app
 1. Install **MonoGame 3.6** for Visual Studio from [monogame.net](http://www.monogame.net/)
