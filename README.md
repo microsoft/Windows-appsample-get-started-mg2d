@@ -1,7 +1,6 @@
 ---
 page_type: sample
-description:
-- A sample app accompanying a tutorial that teaches you the basics of game development in MonoGame.
+description: "A sample app accompanying a tutorial that teaches you the basics of game development in MonoGame."
 languages:
 - csharp
 products:
@@ -10,7 +9,7 @@ statusNotificationTargets:
 - codefirst@microsoft.com
 ---
 
-# Get Started MonoGame 2D
+# Get Started with MonoGame 2D
 
 ## Requirements
 This app requires Visual Studio to run. [Click here to learn how to get set up with Visual Studio](https://docs.microsoft.com/windows/uwp/get-started/get-set-up).
